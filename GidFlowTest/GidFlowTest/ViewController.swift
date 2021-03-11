@@ -11,7 +11,7 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        print("testy")
+        print("testy经卡都好看撒谎贷记卡是打卡")
     }
 
 
