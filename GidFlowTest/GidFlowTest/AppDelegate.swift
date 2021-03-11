@@ -14,7 +14,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
         // Override point for customization after application launch.
-        print("test 2也基于IE与i我也我")
+        print("test 738291739872189378219 出2也基于IE与i我也我")
         print("finish feature")
         return true
     }
