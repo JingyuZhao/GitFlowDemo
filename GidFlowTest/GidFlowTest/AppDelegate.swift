@@ -16,6 +16,16 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
         // Override point for customization after application launch.
         print("test 738291739872189378219 出2也基于IE与i我也我")
         print("finish feature")
+        let arr = [123,43,54,13,534]
+        for (index,obj) in arr.enumerated() {
+            print("\(index)*****\(obj)")
+        }
+
+        let dic = ["name":"dsa","info":"dadsa","age":arr] as [String : Any]
+        for (index,obj) in dic.enumerated() {
+            print("\(index) \(obj)")
+        }
+
         return true
     }
 
